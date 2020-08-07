@@ -176,12 +176,12 @@
     "description": "<p>Arnvald was a seneschal in Crach an Craite's service who before served as cupbearer.</p><p>     After Guthlaf, trusted seneschal to the An Craite jarls, passed away a portion of his duties were taken over by the jarl's cupbearer, Arnvald. This elderly Skelliger did not possess the far-reaching authority of his predecessor, but still had managed to make himself irriplaceable in his few years in the position. His purview included not only stocking the larders and cellars of Kaer Trolde but also seeing to the needs of the keep's inhabitants, as well as the guests that visited it during feasts and other important ceremonies.</p><p>If Geralt catches Arnvald:  is why is betrayal could not have come as a greater surprise. When caught, Arnvald confessed to his role in the murderous conspiracy, revealing his patron as well as his long-seething hatred for Clan an Craite.</p><p>If Geralt fails to catch Arnvald: That is why his betrayal could not have come as a greater surprise. His motivations, however, remained a secret that he took to his grave, for he died while trying to escape, killed on his patron's orders.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image":"",
-    "description": ""
+    "id": 23,
+    "name": "Artis",
+    "gender": "Male",
+    "profession": "Druid (formerly), Priest of Svalblod, King Svanrige's advisor (optional)",
+    "image":"https://vignette.wikia.nocookie.net/witcher/images/d/dc/Tw3_artis.jpg/revision/latest/scale-to-width-down/350?cb=20160319193255",
+    "description": "<p>Artis was a fallen druid of Skellige circle who at some point become priest to cruel deity of Svalblod and as such had also became the leader of the Vildkaarls.</p>"
   },
   {
     "id": 1,
