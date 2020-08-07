@@ -184,36 +184,36 @@
     "description": "<p>Artis was a fallen druid of Skellige circle who at some point become priest to cruel deity of Svalblod and as such had also became the leader of the Vildkaarls.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image":"",
-    "description": ""
+    "id": 24,
+    "name": "Astrid (Skjall's sister)",
+    "gender": "Female",
+    "profession": "Unknown",
+    "image":"https://vignette.wikia.nocookie.net/witcher/images/c/c5/Tw3_astrid_skjalls_sister.png/revision/latest/scale-to-width-down/350?cb=20180128155356",
+    "description": "<p>Astrid was a young woman living in Lofoten with her brother, Skjall, and their mother. One day, her brother brought home an injured Ciri while the mysterious elf that was with Ciri went off to find a boat. After Ciri woke up, Astrid took her to the sauna to help her heal while her brother went to ready a couple horses to get Ciri to her destination.</p><p>At the sauna, Astrid and her mother talked with Ciri about her life as someone from the continent. After Ciri finished up at the sauna, she headed off to the barn.</p><p>Astrid and her mother most likely died when the Wild Hunt, looking for Ciri, attacked Lofoten, as nobody knew what happened to Ciri when Geralt and Yennefer later passed through the village looking for answers.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image":"",
-    "description": ""
+    "id": 25,
+    "name": "Astrid the Vipress",
+    "gender": "Female",
+    "profession": "Unknown",
+    "image":"https://vignette.wikia.nocookie.net/witcher/images/9/95/Astrid-the-vipress.jpg/revision/latest/scale-to-width-down/350?cb=20161026205515",
+    "description": "<p>Astrid the Vipress was the fastest rider of Skellige. </p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image":"",
-    "description": ""
+    "id": 26,
+    "name": "Athak Akydalv",
+    "gender": "Male",
+    "profession": "Fist fighter",
+    "image":"https://vignette.wikia.nocookie.net/witcher/images/7/72/Tw3_Champion_of_Champions.jpeg/revision/latest/scale-to-width-down/350?cb=20181027114555",
+    "description": "<p>Athak Akydalv was a rock troll and professional fist fighter who held the title of Champion of Champions in 1272. Upon his arrival at the arena in Hov on the island of Spikeroog, Athak won the title by defeating Zama, the previous Champion of Champions. In order to have obtained the title, Athak must also have defeated the previously-reigning fist fighting champions of Novigrad, Velen, and Skellige.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image":"",
-    "description": ""
+    "id": 27,
+    "name": "Auberon Muircetach",
+    "gender": "Male",
+    "profession": "King",
+    "image":"https://vignette.wikia.nocookie.net/witcher/images/e/ec/Gwent_cardart_monsters_auberon_king.png/revision/latest/scale-to-width-down/348?cb=20200630130201",
+    "description": "<p>Auberon Muircetach, King of the Alders, was the king of the Aen Elle elves, an Aen Saevherne, and ruler of Tir ná Lia. He was determined to \"take back\" what had been stolen from the Aen Elle by Cregennan when he took Lara Dorren, Auberon's daughter. To do this, he had Ciri, a descendant of the two lovers, brought to him and groomed to produce an heir. He was notably patient and never brutal, but nor would he be dissuaded from his goal.</p><p>He died before he was able to impregnate Ciri; killed, possibly unwittingly, possibly not, from an overdose of an aphrodisiac or performance enhancer at the age of over 650 years supplied by Eredin Bréacc Glas, who viewed himself as a more suitable ruler.</p>"
   },
   {
     "id": 1,
