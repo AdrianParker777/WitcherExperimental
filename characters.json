@@ -240,36 +240,36 @@
     "description": "<p>Aynara was one of the orphans that Gran looked after in Crookback Bog in 1272.</p><p>If Geralt freed the Ghost in the Tree: Aynara, along with all the other orphans from Crookback Bog, was saved by the Ghost from the Crones. The orphans later ended up in Novigrad, and were placed under the care of Marabella at her school.</p><p>If Geralt killed the Ghost in the Tree: Aynara, along with all the other orphans from Crookback Bog, was taken to Aard Cerbin by the Crones, where she was killed and consumed by them.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 31,
+    "name": "Bart",
+    "gender": "Male",
+    "profession": "Guardian of camels (formerly), Sentinel of Count Reuven's Treasure",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/3/3a/Tw3_journal_bart_troll.png/revision/latest/scale-to-width-down/350?cb=20170315182957",
+    "description": "<p>Bart was a troll who served Dijkstra in Novigrad. He was originally from Zerrikania where he guarded over camels.</p><p>Bart guarded camels for a Zerrikanian camel merchant before Dijkstra won him from the merchant in a card game. He was taken to Sigismund's Bathhouse in Novigrad where Dijkstra tasked him with protecting a treasure repository used by the Big Four.</p><p>In 1272, the treasure was stolen in a heist during which the wall separating the vault from a sewer was breached. Bart ventured into the sewer but was incapacitated by pops' mold, which allowed the thieves to make off with the loot. Bart had developed a rapport with Dijkstra, and was beat up about failing to protect what he called the \"chorfun\", deeming the successful theft to be his own fault. He recounted the events of the heist to Geralt, whom Dijkstra had tasked with recovering the lost assets.</p><p>Later, Philippa Eilhart fled into the sewers after being held in Dijkstra's bathhouse, taking Bart, who stood in her way, under her control in the process. Geralt, in pursuit of Philippa, encountered Bart in the bathhouse's dungeon, and had the choice of either killing him, or persuading him to be let through.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 32,
+    "name": "Bastien Vildenvert",
+    "gender": "Male",
+    "profession": "Soldier",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/7/74/Tw3_bastien_vildenvert_wounded.png/revision/latest/scale-to-width-down/350?cb=20180216034907",
+    "description": "<p>Bastien Vildenvert was a Temerian soldier who fought at the Battle of White Orchard in the Third Northern War and the owner of a hound named Hussar.</p><p>During the Third Northern War, Bastien was drafted into the Temerian Army while living in White Orchard. Unlike his brother, Dune, who cut his thumb off to be ineligible for the draft, Bastien did not do so.</p><p>In the Spring of 1272, Bastien participated in a battle near White Orchard in which Nilfgaardian and Temerian forces clashed. He was wounded but was saved by another wounded soldier, a Nilfgaardian named Rhosyn, and together the two crawled away from the battle and found refuge in a nearby hut in the woods where they sat and told stories for several days. Meanwhile, Bastien was declared missing by his brother, who appealed for help in finding either Bastien or his corpse, so that he may at least receive a proper burial. Geralt could choose to help, and if he did, headed for the battlefield.</p><p>If Geralt finds Bastien and Rhosyn with Hussar: Geralt convinced Dune to let the deserted Nilfgaardian stay with them and they all went to their farm, east of White Orchard inn, where Rhosyn helped them out.</p><p>If Geralt doesn't find the brothers, or finds them after going to Vizima: Bastien and Rhosyn died in the hut as their injuries were too severe to get help on their own.</p><p>If Geralt finds them before talking to Dune: Geralt wasn't there to convince Dune to take in the Nilfgaardian, and so while Bastien survived, Rhosyn died alone in the hut.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 33,
+    "name": "Bea",
+    "gender": "Female",
+    "profession": "Barmaid",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/9/9f/Tw3_Bea.jpg/revision/latest/scale-to-width-down/350?cb=20160818072914",
+    "description": "<p>Bea was young, maybe slightly older than Ciri and worked as a barmaid in The Golden Sturgeon. Bea helped Ciri during her stay in Novigrad. They became friends and when Ciri reappeared in the free city she compensated Bea with a trinket.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 34,
+    "name": "Beast Tamer",
+    "gender": "male",
+    "profession": "Showman",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/e/ed/Tw3_beast_tamer.png/revision/latest/scale-to-width-down/350?cb=20181012011218",
+    "description": "<p>Beast Tamer was a traveling showman in 1272, selling tickets for people to see rare and exciting creatures like a basilisk. In reality, the guy was either ignorant or deliberately cheating people out of their money, as it wasn't a basilisk he had but a young, ill-fed wyvern.</p><p>If Geralt intervenes: as he showed off the \"basilisk\" to a group of Redanian soldiers, the witcher came forth, eventually pointing out it was a wyvern. Realizing they'd been had, the soldiers began to move in to grab the man when the beast's cage suddenly broke and the wyvern got out while the \"beast tamer\" hid. </p>"
   },
   {
     "id": 1,
