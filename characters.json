@@ -272,12 +272,12 @@
     "description": "<p>Beast Tamer was a traveling showman in 1272, selling tickets for people to see rare and exciting creatures like a basilisk. In reality, the guy was either ignorant or deliberately cheating people out of their money, as it wasn't a basilisk he had but a young, ill-fed wyvern.</p><p>If Geralt intervenes: as he showed off the \"basilisk\" to a group of Redanian soldiers, the witcher came forth, eventually pointing out it was a wyvern. Realizing they'd been had, the soldiers began to move in to grab the man when the beast's cage suddenly broke and the wyvern got out while the \"beast tamer\" hid. </p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 35,
+    "name": "Berem",
+    "gender": "Male",
+    "profession": "Werewolf",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/6/66/Berem.jpeg/revision/latest/scale-to-width-down/350?cb=20180110115715",
+    "description": "<p>Berem was a werewolf Geralt met in 1272 if Ciri didn't come back through the portal in Tor Gvalch'ca. Geralt came to Velen to hunt down the last of the three crone sisters, Weavess, and take back Ciri's stolen witcher medallion, which was originally Vesemir's. </p>"
   },
   {
     "id": 1,
