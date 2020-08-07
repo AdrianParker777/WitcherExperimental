@@ -168,12 +168,12 @@
     "description": "<p>Arnout Vester was a famous bounty hunter from the Nilfgaardian Empire and one of many that aimed to catch the witcher Letho of Gulet.</p><p>If Ghosts of the Past is completed: he ended up in Lindenvale with his gang, having gotten word that Letho was hiding out at the abandoned Reardon Manor. However, Arnout didn't realize the witcher had tracked him down already and bribed his arbalist to help fake his death. Letho then confronted Arnout directly in Lindenvale. Letho didn't go down without fight, taking out most of Arnout's men.</p><p>If Geralt kills the rest: incensed by this, Geralt then ran in and decided he could at least finish them off, killing Arnout.</p><p>If Geralt lets the rest go: deciding this wasn't his fight, Geralt let Arnout and the rest of his men go, who then spread the word that Letho was dead.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image":"",
-    "description": ""
+    "id": 22,
+    "name": "Arnvald",
+    "gender": "Male",
+    "profession": "Seneschal",
+    "image":"https://vignette.wikia.nocookie.net/witcher/images/3/38/Tw3_journal_arnvald.png/revision/latest/scale-to-width-down/350?cb=20160610152305",
+    "description": "<p>Arnvald was a seneschal in Crach an Craite's service who before served as cupbearer.</p><p>     After Guthlaf, trusted seneschal to the An Craite jarls, passed away a portion of his duties were taken over by the jarl's cupbearer, Arnvald. This elderly Skelliger did not possess the far-reaching authority of his predecessor, but still had managed to make himself irriplaceable in his few years in the position. His purview included not only stocking the larders and cellars of Kaer Trolde but also seeing to the needs of the keep's inhabitants, as well as the guests that visited it during feasts and other important ceremonies.</p><p>If Geralt catches Arnvald:  is why is betrayal could not have come as a greater surprise. When caught, Arnvald confessed to his role in the murderous conspiracy, revealing his patron as well as his long-seething hatred for Clan an Craite.</p><p>If Geralt fails to catch Arnvald: That is why his betrayal could not have come as a greater surprise. His motivations, however, remained a secret that he took to his grave, for he died while trying to escape, killed on his patron's orders.</p>"
   },
   {
     "id": 1,
