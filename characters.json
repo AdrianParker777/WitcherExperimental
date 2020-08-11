@@ -280,44 +280,44 @@
     "description": "<p>Berem was a werewolf Geralt met in 1272 if Ciri didn't come back through the portal in Tor Gvalch'ca. Geralt came to Velen to hunt down the last of the three crone sisters, Weavess, and take back Ciri's stolen witcher medallion, which was originally Vesemir's. </p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 36,
+    "name": "Bernard Tulle",
+    "gender": "Male",
+    "profession": "Merchant (cover), Thief",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/d/d4/Tw3_bernard_tulle.jpg/revision/latest/scale-to-width-down/350?cb=20160130110741",
+    "description": "<p>Bernard Tulle was a halfling and according to him, a mushrooms farmer working for the Zerrikanian Spice Company in Novigrad.</p><p>He participated in the Gwent tournament of the Passiflora using the Northern Realms deck. His skills in this particular card game were however quite ridiculous, but it sort of made sense: Bernard was not at all a simple spices merchant; indeed, he was a professional thief who entered the tournament just to steal the 9000 Crowns prize.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 37,
+    "name": "Bertha",
+    "gender": "Female",
+    "profession": "Prostitute",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/e/ea/Tw3_bertha.png/revision/latest/scale-to-width-down/350?cb=20180403024426",
+    "description": "<p>Bertha was a prostitute working at Crippled Kate's in Novigrad during 1272. Despite some looking down on such a line of work, Bertha enjoyed her job and was putting away savings to one day own her own brothel.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 38,
+    "name": "Berthold",
+    "gender": "Male",
+    "profession": "Alchemist",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/e/e5/Tw3_Berthold.png/revision/latest/scale-to-width-down/350?cb=20160428194238",
+    "description": "<p>Berthold was an alchemist based in Novigrad who was being persecuted by the witch hunters along with his wife Anisse. During the quest Now or Never Geralt must decide whether or not to spend time searching for him and his wife.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 39,
+    "name": "Bertram (peasant)",
+    "gender": "Male",
+    "profession": "Peasant",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/6/60/Tw3_bertram_yantra.png/revision/latest/scale-to-width-down/350?cb=20190103035835",
+    "description": "<p>Bertram was a peasant living in the village of Yantra around 1272.</p><p>One day, about half a year ago, he approached Little Red and her gang with an offer: he'd point out who was worth robbing in the area and in return he got a share of the intake. Eventually he grew greedy and demanded a larger share but Little Red refused, so he sent the witch hunters after her group.</p><p>However, this secret deal was unknown to the other villagers, and when they learned Little Red planned to attack the village and kill Bertram for setting the witch hunters on them, they sought to protect Bertram, not realizing he'd been selling some of them out for his own gain.</p><p>If Geralt lets Little Red have Bertram: Bertram soon met his death as Geralt, on hearing the full story, let Little Red exact her revenge.</p><p>If Geralt kills Little Red: Bertram was saved thanks to the witcher, and the deal he made with Little Red never came to light.</p>"
   },
   {
-    "id": 1,
-    "name": "",
-    "gender": "",
-    "profession": "",
-    "image": "",
-    "description": ""
+    "id": 40,
+    "name": "Birna",
+    "gender": "Female",
+    "profession": "Queen dowager",
+    "image": "https://vignette.wikia.nocookie.net/witcher/images/3/35/Tw3_journal_birna.png/revision/latest/scale-to-width-down/350?cb=20160706102856",
+    "description": "<p>Birna Bran was a wife of King Bran Tuirseach and the mother of his firstborn son, Svanrige. After the death of her husband, she refused to give up power and began to style herself \"Queen Mother\" in hopes that her son would become the next king.</p><p>When Geralt of Rivia arrived in Ard Skellig to meet up with Yennefer, King Bran had passed away and Birna Bran was among the many to attend his funeral. However, instead of following Skellige tradition where she was expected to let herself die on her husband's pyre as it was set out to sea, she stayed behind and one of Bran's younger concubines took Birna's place instead.</p><p>Later, during the wake, Birna discussed with Yennefer her distaste over Skellige's tradition of electing a king rather than it being hereditary like the Continent monarchies and, naturally, wanting her son to become the next king. When all the possible candidates put themselves forward, including Crach an Craite's two children, she tried to convince the jarl of an Craite to tell his children to back out but he refused. </p><p>Deciding she had no other option, Birna schemed to remove all the other throne candidates by enlisting Arnvald's help in spiking the feast's drinks with a mixture of blood and mushrooms and then sent her son away from the main hall. When the spiked mixture was drunk, berserkers at the party transformed and began to mindlessly kill everyone around them, including almost all the candidates in the hall except for Cerys and Hjalmar. However, because the incident happened at the an Craite stronghold, the clan was blamed for the incident and if they couldn't figure out the truth, the throne would automatically go to Svanrige.</p>"
   },
   {
     "id": 1,
